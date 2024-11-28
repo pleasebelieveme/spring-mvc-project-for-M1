@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="2">\n<system/>\n<external location\="C\:\\Program Files\\Internet Explorer\\iexplore.exe" name\="Internet Explorer"/>\n<external location\="/Applications/Google Chrome.app" name\="chrome"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost\:8888/controller/form.do|*|http\://localhost\:8888/controller/form.html|*|http\://localhost\:7777/spring/|*|http\://localhost\:7777/spring|*|http\://localhost\:7777/spring/WEB-INF/classes/com/edu/spring/controller/IndexController.java|*|file\:/C\:/miracom_edu/springWorkspace_maven/.metadata/.plugins/org.springsource.ide.eclipse.commons.gettingstarted/dashboard/1637644175096/index.html|*|file\:/C\:/miracom_edu/util/spring/sts-bundle/sts-3.9.8.RELEASE/plugins/org.springsource.ide.eclipse.commons.gettingstarted_3.9.8.201903260646-RELEASE/resources/welcome/index.html|*|

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="workshop01"/>
+<aop-project name="ch2"/>
+<aop-project name="firstSpring"/>
+</aop-reference-model>
